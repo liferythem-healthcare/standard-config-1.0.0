@@ -17,49 +17,49 @@
 			"enabled": true,
 			"name": "clinicalService",
 			"title": "Clinical Service",
-			"logo": "/bahmni/images/app.png",
-			"link": "/bahmni/home"
+			"logo": "/healthnet/images/app.png",
+			"link": "/healthnet/home"
 		},
 		{
 			"enabled": true,
 			"name": "openelis",
 			"title": "Laboratory",
-			"logo": "/bahmni/images/lab.png",
+			"logo": "/healthnet/images/lab.png",
 			"link": "/openelis"
 		},
 		{
 			"enabled": true,
 			"name": "odoo",
 			"title": "Stock Inventory & Billing",
-			"logo": "/bahmni/images/bills.png",
+			"logo": "/healthnet/images/bills.png",
 			"linkPrefix": "erp"
 		},
 		{
 			"enabled": false,
 			"name": "crater",
 			"title": "Payment & Billing",
-			"logo": "/bahmni/images/bills.png",
+			"logo": "/healthnet/images/bills.png",
 			"linkPrefix": "payments"
 		},
 		{
 			"enabled": false,
 			"name": "connect",
 			"title": "Connect",
-			"logo": "/bahmni/images/connect.png",
+			"logo": "/healthnet/images/connect.png",
 			"link": "/bahmni-connect"
 		},
 		{
 			"enabled": true,
 			"name": "dcm",
 			"title": "Radiology",
-			"logo": "/bahmni/images/pac.png",
+			"logo": "/healthnet/images/pac.png",
 			"link": "/dcm4chee-web3"
 		},
 		{
 			"enabled": true,
 			"name": "metabase",
 			"title": "Analytics",
-			"logo": "/bahmni/images/analytics.png",
+			"logo": "/healthnet/images/analytics.png",
 			"link": "/metabase"
 		}
 	]
