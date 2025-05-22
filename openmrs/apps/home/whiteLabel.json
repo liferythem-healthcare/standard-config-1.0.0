@@ -18,7 +18,7 @@
 			"name": "clinicalService",
 			"title": "Clinical Service",
 			"logo": "/healthnet/images/app.png",
-			"link": "/healthnet/home"
+			"link": "/healthnet/home/index.html#/login"
 		},
 		{
 			"enabled": true,
