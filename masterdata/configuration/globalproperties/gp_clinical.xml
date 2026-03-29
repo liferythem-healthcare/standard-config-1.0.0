@@ -39,9 +39,5 @@
         </globalProperty>
 
     
-        <globalProperty>
-          <property>pacsquery.pacsConfig</property>
-          <value>DCM4CHEE@178.236.185.39:11113</value>
-        </globalProperty>
     </globalProperties>
 </config>
