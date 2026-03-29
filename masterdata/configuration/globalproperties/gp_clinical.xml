@@ -37,5 +37,11 @@
             </value>
             <description>SQL query to get the list of emergency medications to be acknowledged</description>
         </globalProperty>
+
+    
+        <globalProperty>
+          <property>pacsquery.pacsConfig</property>
+          <value>DCM4CHEE@178.236.185.39:11113</value>
+        </globalProperty>
     </globalProperties>
 </config>
