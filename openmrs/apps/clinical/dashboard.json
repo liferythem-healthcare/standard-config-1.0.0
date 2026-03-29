@@ -119,7 +119,7 @@
                 "translationKey": "DASHBOARD_TITLE_PACS_KEY",
                 "displayOrder": 11,
                 "dashboardConfig": {  
-                    "pacsImageUrl": "http://178.236.185.39:3005/viewer?AccessionNumber={{orderNumber}}",
+                    "pacsImageUrl":"http://178.236.185.39:3005/launch/{{orderNumber}}",
                     "pacsStudyUrl": "http://178.236.185.39:3005/viewer?StudyInstanceUIDs={{studyUID}}",
                     "numberOfVisits": 4
                 }
